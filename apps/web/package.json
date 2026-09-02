@@ -6,10 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "eslint \"**/*.ts*\""
   },
   "dependencies": {
-    "next": "^15.5.24",
+    "next": "^16.1.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "ui": "*"
