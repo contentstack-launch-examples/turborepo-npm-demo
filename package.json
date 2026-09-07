@@ -27,7 +27,6 @@
   "overrides": {
     "axios": "^0.33.0",
     "immutable": "^4.3.9",
-    "linkify-it": "^5.0.2",
     "liquidjs": "^10.29.0",
     "postcss": "^8.5.26",
     "markdown-it": "^14.1.2",
