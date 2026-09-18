@@ -15,5 +15,8 @@
     "prettier": "^2.5.1",
     "turbo": "latest"
   },
+  "overrides": {
+    "fast-uri": "^3.1.8"
+  },
   "packageManager": "npm@8.12.1"
 }
