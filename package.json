@@ -17,7 +17,13 @@
   },
   "overrides": {
     "axios": "^0.34.0",
-    "fast-uri": "^3.1.8"
+    "fast-uri": "^3.1.8",
+    "handlebars": "^4.7.10",
+    "immutable": "^4.3.9",
+    "liquidjs": "^10.29.0",
+    "markdown-it": "^14.1.2",
+    "send": "^0.19.0",
+    "serve-static": "^1.16.0"
   },
   "packageManager": "npm@8.12.1"
 }
